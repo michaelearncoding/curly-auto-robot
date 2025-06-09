@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Week3___Cpp_CMake",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Week3___Cpp_CMake::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week3___Cpp_CMake-Debug-c5b7a021ed03faa9873b.json",
+					"name" : "Week3___Cpp_CMake",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/qingdamai/Desktop/artifact/curly-auto-robot/ECE650/Week3 - Cpp:CMake/cmake-build-debug",
+		"source" : "/Users/qingdamai/Desktop/artifact/curly-auto-robot/ECE650/Week3 - Cpp:CMake"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
